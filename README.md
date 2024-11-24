@@ -1,14 +1,10 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiemcode&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=transparent&layout=donut)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jiemCode" />
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jiemcode&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiemCode&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=transparent&layout=donut" />
 </a>
 
 <!--
