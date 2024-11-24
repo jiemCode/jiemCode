@@ -10,7 +10,7 @@
 <br>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/maguette-diop-845a25235/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/maguette-diop-845a25235/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/maguette-diop-845a25235/)
 
 <!--
 **jiemCode/jiemCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
