@@ -7,7 +7,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=ambient_gradient&layout=donut" />
 </a>
 
-![X (formerly Twitter) URL](https://img.shields.io/linkedin/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaguette-diop-845a25235%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maguette-diop-845a25235/)
+
 
 
 <!--
