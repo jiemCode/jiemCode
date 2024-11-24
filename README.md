@@ -7,9 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=ambient_gradient&layout=donut" />
 </a>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiemCode&repo=bookshelf)
-
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=social&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaguette-diop-845a25235%2F)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaguette-diop-845a25235%2F)
 
 
 <!--
