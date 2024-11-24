@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p">
+<p>
   <a href="">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jiemcode&show_icons=true&theme=transparent" />
   </a>
