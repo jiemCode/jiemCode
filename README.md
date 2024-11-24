@@ -9,6 +9,9 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiemCode&repo=bookshelf)
 
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=social&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaguette-diop-845a25235%2F)
+
+
 <!--
 **jiemCode/jiemCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
