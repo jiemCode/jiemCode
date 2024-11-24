@@ -6,10 +6,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=ambient_gradient&layout=donut" />
 </a>
-
+<br>
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/maguette-diop-845a25235/)
-
-
 
 <!--
 **jiemCode/jiemCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
