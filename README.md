@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiemcode&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=transparent&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=transparent&layout=donut)
 
 
 <!--
