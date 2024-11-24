@@ -23,6 +23,19 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=transparent&layout=donut" />
 </a>
 
+<p align="center">
+  <a href="https://jiemcode.github.io/">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome" alt="Website">
+  </a>
+  <a href="mailto:dmax6176@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/maguette-diop-845a25235/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+
 <br>
 <br>
 <p align="center">
