@@ -25,7 +25,7 @@
 </a>
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-vercel-jiemcodes-projects.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=transparent&layout=donut" />
+  <img height=200 align="center" src="https://gh-readme-stats-jiemcodes-projects.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=transparent&layout=donut" />
 </a>
 
 <br>
