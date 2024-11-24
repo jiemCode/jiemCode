@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jiemcode&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jiemcode&show_icons=true&theme=gradiant" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiemCode&show_icons=true&theme=transparent&layout=donut" />
