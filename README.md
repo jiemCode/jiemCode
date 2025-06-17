@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Devops, Python, and Web/Mobile development.
-- 📫 How to reach me: [jiemCode@example.com](mailto:jiemCode@example.com)
 
 ## Some GitHub Stats
 
