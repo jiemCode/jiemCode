@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm jiemCode  
 
-🚀 DevOps | Cloud | Full-Stack Developer | Open-Source Enthusiast  
+🚀 DevOps | Cloud | Full-Stack Developer
 
 Welcome to my GitHub profile! I'm passionate about **automation, cloud-native architectures, and scalable systems**. I love building projects that bridge development and operations, making software delivery faster, more reliable, and secure.  
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about **automation, cloud-native ar
 ### 🚀 DevOps & Cloud  
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
