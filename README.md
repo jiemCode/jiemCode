@@ -5,21 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="https://jiemcode.github.io/"><img src="https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/jiemCode"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:diop.maguette@uam.edu.sn"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=jiemCode&style=flat-square&color=111" alt="Profile Views"/>
+  <a href="https://jiemcode.github.io/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/maguette-diop-845a25235"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jiemCode&style=flat-square&color=111111&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
 
 ### À propos
 
-Élève-ingénieur en informatique (UAM, M1 MISID). Je construis des **systèmes distribués**, des **applications mobiles offline-first** et des **plateformes SaaS** — du provisioning réseau jusqu'à l'UI. J'aime quand l'infra, le code et la donnée tiennent debout ensemble.
+Élève-ingénieur en informatique (Systèmes d'Information et Données). Je construis des **systèmes distribués**, des **solutions mobiles** et des **plateformes SaaS** — du provisioning réseau jusqu'à l'UI. J'aime quand l'infra, le code et la donnée tiennent debout ensemble.
 
-- Focus actuel : plateforme **tontines mobile money** (Flutter + FastAPI) et un **cloud privé** sur Proxmox.
-- J'apprends : Kubernetes en prod, GitOps avec ArgoCD, MLOps.
-- Toujours partant pour échanger sur **archi microservices**, **observabilité** et **fintech Afrique**.
+- J'apprends : Kubernetes en prod, GitOps avec ArgoCD, MLOps et AWS.
+- Toujours partant pour échanger sur **archi microservices** et **observabilité**.
 
 ---
 
@@ -161,28 +159,10 @@ Plateforme universitaire (Node/Sequelize/JWT) + stack d'observabilité dédiée.
 <tr>
 <td width="50%" valign="top">
 
-#### [SamaEcole](https://samaecole.pythonanywhere.com/)
-Gestion scolaire complète (élèves, notes, emplois du temps, paiements).
-
-`Django` `PostgreSQL` `Bootstrap`
-
-</td>
-<td width="50%" valign="top">
-
 #### [QuickFill](https://github.com/jiemCode/quickfiller)
 CLI de remplissage en masse de SVG depuis CSV — cartes, certificats, badges.
 
 `Python` `SVG` `CSV` `CLI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### Cloud Privé sur Proxmox
-Provider cloud personnel : provisioning VM/LXC via API, billing, dashboards.
-
-`Proxmox` `FastAPI` `Ansible` `cloud-init` `ZFS` `MinIO`
 
 </td>
 <td width="50%" valign="top">
@@ -214,29 +194,38 @@ Pipeline multi-étapes (build → scan → test → deploy) avec quality gates.
 </tr>
 </table>
 
-> Plus de labs : `docker_labs/` — k8s, Wazuh, GLPI, OpenFGA, nginx-proxy-manager, urbackup.
-
 ---
 
-### Travaux académiques notables
+### Travaux académiques
 
 - **Audit SSI** complet d'un SI universitaire (cartographie, vulnérabilités, recommandations).
-- **Méthodologie de Pentest** documentée : reconnaissance, scan `nmap`, analyse de vulnérabilités, exploitation, post-exploitation, ingénierie sociale.
+- **Méthodologie de Pentest** documentée : reconnaissance, scan `nmap`, analyse de vulnérabilités, exploitation, post-exploitation.
 - **Cluster Kubernetes HA** sur Proxmox + XCP-NG (et version AWS via kubeadm + HAProxy).
-- **Infra ops réelle** : déploiements GLPI, UrBackup, Duplicati, Nextcloud + OnlyOffice, Odoo 12, sauvegardes pgBackRest.
-- **Deep Learning from scratch** : neurone artificiel, réseau 2 couches en NumPy.
-- **Big Data** : NYC Taxi (Spark), prédiction d'infarctus, benchmarking énergétique Seattle.
+- **Infra ops** : déploiements GLPI, UrBackup, Nextcloud + OnlyOffice, Odoo 17, sauvegardes pgBackRest.
+- **AI / Deep Learning** : SVM, KNN, CNN, XGBoost, DT.
+- **Big Data** : NYC Taxi (Spark on AWS EMR), benchmarking énergétique Seattle.
 - **NoSQL** : MongoDB + Cassandra (modélisation, requêtes, agrégations).
-- **DWH / BI** : Talend, modélisation étoile, KPIs.
-- **Sécurité réseau** : Snort (IDS), Nagios + SNMP, OpenSSL.
+- **DWH / BI** : Talend Data Integration, Tableau Desktop, modélisation étoile, KPIs.
+- **Sécurité réseau** : Snort (IDS), Wazuh, Nagios + SNMP, OpenSSL.
 
 ---
 
 ### Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiemCode&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiemCode&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
+  <a href="https://github.com/jiemCode">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiemCode&theme=github_dark" alt="profile-details"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiemCode&theme=github_dark" alt="repos-per-language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiemCode&theme=github_dark" alt="most-commit-language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiemCode&theme=github_dark" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiemCode&theme=github_dark&utcOffset=0" alt="productive-time"/>
 </p>
 
 ---
