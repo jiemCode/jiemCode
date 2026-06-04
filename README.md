@@ -1,7 +1,7 @@
 <h1 align="center">Maguette Diop — jiemCode</h1>
 
 <p align="center">
-  <em>Cloud · DevOps · Backend · Data & ML — Dakar, Sénégal</em>
+  <em>SysAdmin · Cloud · DevSecOps · Backend · Data & ML — Dakar, Sénégal</em>
 </p>
 
 <p align="center">
